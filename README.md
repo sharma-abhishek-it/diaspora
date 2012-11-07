@@ -63,3 +63,4 @@ Before submitting code, please sign our [Contributor License Agreement](https://
 - [Dev List](https://groups.google.com/forum/?fromgroups#!forum/diaspora-dev)
 - [Discuss List](https://groups.google.com/forum/?fromgroups#!forum/diaspora-discuss)
 - [IRC](https://github.com/diaspora/diaspora/wiki/How-we-use-IRC)
+
